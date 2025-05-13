@@ -1,5 +1,10 @@
 #include <iostream>
+
 int main() {
+
+  /* Basic syntax for variable declaration
+     variable_type variable_name = value; */
+  
   // int - used to store whole numbers
   int min_num = 5;
   int max_num = 10;
